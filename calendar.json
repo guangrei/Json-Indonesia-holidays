@@ -365,6 +365,12 @@
         "dimodifikasi": "20190221T122231Z",
         "status": "CONFIRMED"
     },
+    "20200522": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20190911T231553Z",
+        "dimodifikasi": "20190911T231553Z",
+        "status": "CONFIRMED"
+    },
     "20200524": {
         "deskripsi": "Idul Fitri (Lebaran Mudik)",
         "dibuat": "20190221T122231Z",
@@ -375,6 +381,18 @@
         "deskripsi": "Idul Fitri (Lebaran Mudik)",
         "dibuat": "20190221T122231Z",
         "dimodifikasi": "20190221T122231Z",
+        "status": "CONFIRMED"
+    },
+    "20200526": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20190911T231553Z",
+        "dimodifikasi": "20190911T231553Z",
+        "status": "CONFIRMED"
+    },
+    "20200527": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20190911T231553Z",
+        "dimodifikasi": "20190911T231553Z",
         "status": "CONFIRMED"
     },
     "20200601": {
@@ -414,9 +432,9 @@
         "status": "CONFIRMED"
     },
     "20201224": {
-        "deskripsi": "Malam Natal",
-        "dibuat": "20190221T122231Z",
-        "dimodifikasi": "20190221T122231Z",
+        "deskripsi": "Cuti Bersama (Malam Natal)",
+        "dibuat": "20190911T231553Z",
+        "dimodifikasi": "20190911T231553Z",
         "status": "CONFIRMED"
     },
     "20201225": {
@@ -431,5 +449,5 @@
         "dimodifikasi": "20190221T122231Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2019-04-17 04:21"
+    "created-at": "2019-09-13 04:20"
 }
