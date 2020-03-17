@@ -73,14 +73,14 @@
     },
     "20190604": {
         "deskripsi": "Cuti Bersama",
-        "dibuat": "20190221T122231Z",
-        "dimodifikasi": "20190221T122231Z",
+        "dibuat": "20200317T002609Z",
+        "dimodifikasi": "20200317T002609Z",
         "status": "CONFIRMED"
     },
     "20190605": {
         "deskripsi": "Idul Fitri (Lebaran Mudik)",
-        "dibuat": "20190221T122231Z",
-        "dimodifikasi": "20190221T122231Z",
+        "dibuat": "20200317T002609Z",
+        "dimodifikasi": "20200317T002609Z",
         "status": "CONFIRMED"
     },
     "20190606": {
@@ -91,8 +91,8 @@
     },
     "20190607": {
         "deskripsi": "Cuti Bersama",
-        "dibuat": "20190221T122231Z",
-        "dimodifikasi": "20190221T122231Z",
+        "dibuat": "20200317T002609Z",
+        "dimodifikasi": "20200317T002609Z",
         "status": "CONFIRMED"
     },
     "20190811": {
@@ -205,8 +205,8 @@
     },
     "20200524": {
         "deskripsi": "Idul Fitri (Lebaran Mudik)",
-        "dibuat": "20190221T122231Z",
-        "dimodifikasi": "20190221T122231Z",
+        "dibuat": "20200317T002609Z",
+        "dimodifikasi": "20200317T002609Z",
         "status": "CONFIRMED"
     },
     "20200525": {
@@ -217,14 +217,26 @@
     },
     "20200526": {
         "deskripsi": "Cuti Bersama",
-        "dibuat": "20190911T231553Z",
-        "dimodifikasi": "20190911T231553Z",
+        "dibuat": "20200317T002609Z",
+        "dimodifikasi": "20200317T002609Z",
         "status": "CONFIRMED"
     },
     "20200527": {
         "deskripsi": "Cuti Bersama",
-        "dibuat": "20190911T231553Z",
-        "dimodifikasi": "20190911T231553Z",
+        "dibuat": "20200317T002609Z",
+        "dimodifikasi": "20200317T002609Z",
+        "status": "CONFIRMED"
+    },
+    "20200528": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20200317T002609Z",
+        "dimodifikasi": "20200317T002609Z",
+        "status": "CONFIRMED"
+    },
+    "20200529": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20200317T002609Z",
+        "dimodifikasi": "20200317T002609Z",
         "status": "CONFIRMED"
     },
     "20200601": {
@@ -251,10 +263,22 @@
         "dimodifikasi": "20190221T122231Z",
         "status": "CONFIRMED"
     },
+    "20200821": {
+        "deskripsi": "Muharram / Islamic New Year Holiday",
+        "dibuat": "20200317T002609Z",
+        "dimodifikasi": "20200317T002609Z",
+        "status": "CONFIRMED"
+    },
     "20201029": {
         "deskripsi": "Maulid Nabi Muhammad",
         "dibuat": "20190221T122231Z",
         "dimodifikasi": "20190221T122231Z",
+        "status": "CONFIRMED"
+    },
+    "20201030": {
+        "deskripsi": "The Prophet Muhammad's Birthday Holiday",
+        "dibuat": "20200317T002609Z",
+        "dimodifikasi": "20200317T002609Z",
         "status": "CONFIRMED"
     },
     "20201114": {
@@ -324,7 +348,7 @@
         "status": "CONFIRMED"
     },
     "20210513": {
-        "deskripsi": "Idul Fitri (Lebaran Mudik)",
+        "deskripsi": "Kenaikan Yesus Kristus",
         "dibuat": "20190911T231553Z",
         "dimodifikasi": "20190911T231553Z",
         "status": "CONFIRMED"
@@ -395,5 +419,5 @@
         "dimodifikasi": "20190911T231553Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2020-01-02 04:06"
+    "created-at": "2020-03-18 04:06"
 }
