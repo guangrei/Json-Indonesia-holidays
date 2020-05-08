@@ -215,30 +215,6 @@
         "dimodifikasi": "20190221T122231Z",
         "status": "CONFIRMED"
     },
-    "20200526": {
-        "deskripsi": "Cuti Bersama",
-        "dibuat": "20200317T002609Z",
-        "dimodifikasi": "20200317T002609Z",
-        "status": "CONFIRMED"
-    },
-    "20200527": {
-        "deskripsi": "Cuti Bersama",
-        "dibuat": "20200317T002609Z",
-        "dimodifikasi": "20200317T002609Z",
-        "status": "CONFIRMED"
-    },
-    "20200528": {
-        "deskripsi": "Cuti Bersama",
-        "dibuat": "20200317T002609Z",
-        "dimodifikasi": "20200317T002609Z",
-        "status": "CONFIRMED"
-    },
-    "20200529": {
-        "deskripsi": "Cuti Bersama",
-        "dibuat": "20200317T002609Z",
-        "dimodifikasi": "20200317T002609Z",
-        "status": "CONFIRMED"
-    },
     "20200601": {
         "deskripsi": "Hari Lahir Pancasila",
         "dibuat": "20190221T122231Z",
@@ -297,6 +273,24 @@
         "deskripsi": "Hari Natal",
         "dibuat": "20190221T122231Z",
         "dimodifikasi": "20190221T122231Z",
+        "status": "CONFIRMED"
+    },
+    "20201228": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20200507T225656Z",
+        "dimodifikasi": "20200507T225656Z",
+        "status": "CONFIRMED"
+    },
+    "20201229": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20200507T225656Z",
+        "dimodifikasi": "20200507T225656Z",
+        "status": "CONFIRMED"
+    },
+    "20201230": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20200507T225656Z",
+        "dimodifikasi": "20200507T225656Z",
         "status": "CONFIRMED"
     },
     "20201231": {
@@ -419,5 +413,5 @@
         "dimodifikasi": "20190911T231553Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2020-03-18 04:06"
+    "created-at": "2020-05-09 04:06"
 }
