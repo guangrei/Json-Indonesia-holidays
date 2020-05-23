@@ -197,12 +197,6 @@
         "dimodifikasi": "20190221T122231Z",
         "status": "CONFIRMED"
     },
-    "20200522": {
-        "deskripsi": "Cuti Bersama",
-        "dibuat": "20190911T231553Z",
-        "dimodifikasi": "20190911T231553Z",
-        "status": "CONFIRMED"
-    },
     "20200524": {
         "deskripsi": "Idul Fitri (Lebaran Mudik)",
         "dibuat": "20200317T002609Z",
@@ -413,5 +407,5 @@
         "dimodifikasi": "20190911T231553Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2020-05-09 04:06"
+    "created-at": "2020-05-24 04:06"
 }
