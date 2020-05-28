@@ -239,6 +239,12 @@
         "dimodifikasi": "20200317T002609Z",
         "status": "CONFIRMED"
     },
+    "20201028": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20200527T222456Z",
+        "dimodifikasi": "20200527T222456Z",
+        "status": "CONFIRMED"
+    },
     "20201029": {
         "deskripsi": "Maulid Nabi Muhammad",
         "dibuat": "20190221T122231Z",
@@ -407,5 +413,5 @@
         "dimodifikasi": "20190911T231553Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2020-05-24 04:06"
+    "created-at": "2020-05-29 04:06"
 }
