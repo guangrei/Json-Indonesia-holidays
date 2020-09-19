@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+echo -e "=== MINIFY JSON ==="
+jq -c . < calendar.json > calendar.min.json
+echo -e "> Minified json: "
+cat calendar.min.json
