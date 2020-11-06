@@ -12,9 +12,9 @@
         "status": "CONFIRMED"
     },
     "20190307": {
-        "deskripsi": "Hari Raya Nyepi (Tahun Baru Saka)",
-        "dibuat": "20190221T122231Z",
-        "dimodifikasi": "20190221T122231Z",
+        "deskripsi": "Hari Suci Nyepi (Tahun Baru Saka)",
+        "dibuat": "20201105T094941Z",
+        "dimodifikasi": "20201105T094941Z",
         "status": "CONFIRMED"
     },
     "20190403": {
@@ -127,8 +127,8 @@
     },
     "20191224": {
         "deskripsi": "Cuti Bersama (Malam Natal)",
-        "dibuat": "20190221T122231Z",
-        "dimodifikasi": "20190221T122231Z",
+        "dibuat": "20201105T094940Z",
+        "dimodifikasi": "20201105T094940Z",
         "status": "CONFIRMED"
     },
     "20191225": {
@@ -162,9 +162,9 @@
         "status": "CONFIRMED"
     },
     "20200325": {
-        "deskripsi": "Hari Raya Nyepi (Tahun Baru Saka)",
-        "dibuat": "20190221T122231Z",
-        "dimodifikasi": "20190221T122231Z",
+        "deskripsi": "Hari Suci Nyepi (Tahun Baru Saka)",
+        "dibuat": "20201105T094940Z",
+        "dimodifikasi": "20201105T094940Z",
         "status": "CONFIRMED"
     },
     "20200410": {
@@ -265,8 +265,8 @@
     },
     "20201224": {
         "deskripsi": "Cuti Bersama (Malam Natal)",
-        "dibuat": "20190911T231553Z",
-        "dimodifikasi": "20190911T231553Z",
+        "dibuat": "20201105T094940Z",
+        "dimodifikasi": "20201105T094940Z",
         "status": "CONFIRMED"
     },
     "20201225": {
@@ -277,20 +277,20 @@
     },
     "20201228": {
         "deskripsi": "Cuti Bersama",
-        "dibuat": "20200507T225656Z",
-        "dimodifikasi": "20200507T225656Z",
+        "dibuat": "20201105T094940Z",
+        "dimodifikasi": "20201105T094940Z",
         "status": "CONFIRMED"
     },
     "20201229": {
         "deskripsi": "Cuti Bersama",
-        "dibuat": "20200507T225656Z",
-        "dimodifikasi": "20200507T225656Z",
+        "dibuat": "20201105T094940Z",
+        "dimodifikasi": "20201105T094940Z",
         "status": "CONFIRMED"
     },
     "20201230": {
         "deskripsi": "Cuti Bersama",
-        "dibuat": "20200507T225656Z",
-        "dimodifikasi": "20200507T225656Z",
+        "dibuat": "20201105T094940Z",
+        "dimodifikasi": "20201105T094940Z",
         "status": "CONFIRMED"
     },
     "20201231": {
@@ -317,10 +317,16 @@
         "dimodifikasi": "20190911T231553Z",
         "status": "CONFIRMED"
     },
+    "20210312": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20201105T094940Z",
+        "dimodifikasi": "20201105T094940Z",
+        "status": "CONFIRMED"
+    },
     "20210314": {
-        "deskripsi": "Hari Raya Nyepi (Tahun Baru Saka)",
-        "dibuat": "20190911T231553Z",
-        "dimodifikasi": "20190911T231553Z",
+        "deskripsi": "Hari Suci Nyepi (Tahun Baru Saka)",
+        "dibuat": "20201105T094940Z",
+        "dimodifikasi": "20201105T094940Z",
         "status": "CONFIRMED"
     },
     "20210402": {
@@ -341,6 +347,12 @@
         "dimodifikasi": "20190911T231553Z",
         "status": "CONFIRMED"
     },
+    "20210512": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20201105T094940Z",
+        "dimodifikasi": "20201105T094940Z",
+        "status": "CONFIRMED"
+    },
     "20210513": {
         "deskripsi": "Kenaikan Yesus Kristus",
         "dibuat": "20190911T231553Z",
@@ -351,6 +363,18 @@
         "deskripsi": "Idul Fitri (Lebaran Mudik)",
         "dibuat": "20190911T231553Z",
         "dimodifikasi": "20190911T231553Z",
+        "status": "CONFIRMED"
+    },
+    "20210517": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20201105T094940Z",
+        "dimodifikasi": "20201105T094940Z",
+        "status": "CONFIRMED"
+    },
+    "20210518": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20201105T094940Z",
+        "dimodifikasi": "20201105T094940Z",
         "status": "CONFIRMED"
     },
     "20210526": {
@@ -396,9 +420,9 @@
         "status": "CONFIRMED"
     },
     "20211224": {
-        "deskripsi": "Malam Natal",
-        "dibuat": "20190911T231553Z",
-        "dimodifikasi": "20190911T231553Z",
+        "deskripsi": "Cuti Bersama (Malam Natal)",
+        "dibuat": "20201105T094940Z",
+        "dimodifikasi": "20201105T094940Z",
         "status": "CONFIRMED"
     },
     "20211225": {
@@ -407,11 +431,17 @@
         "dimodifikasi": "20190911T231553Z",
         "status": "CONFIRMED"
     },
+    "20211226": {
+        "deskripsi": "Jumat untuk Hari Raya Natal",
+        "dibuat": "20201105T094940Z",
+        "dimodifikasi": "20201105T094940Z",
+        "status": "CONFIRMED"
+    },
     "20211231": {
         "deskripsi": "Malam Tahun Baru",
         "dibuat": "20190911T231553Z",
         "dimodifikasi": "20190911T231553Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2020-05-29 04:06"
+    "created-at": "2020-11-07 04:05"
 }
