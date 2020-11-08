@@ -1,0 +1,6 @@
+name: Action minify json
+description: Minify calendar.json and output to calendar.min.json
+
+runs:
+  using: docker
+  image: Dockerfile
