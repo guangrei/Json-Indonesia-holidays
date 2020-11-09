@@ -2,3 +2,4 @@ language: rust
 script:
   - cargo install jsonvalid
   - jsonvalid calendar.json
+  - jsonvalid calendar.min.json
