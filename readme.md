@@ -10,7 +10,7 @@ contoh implementasi https://gist.github.com/guangrei/a684e4afb28d67a3b5fc66da055
 
 - [phptanggalmerah](https://github.com/guangrei/phptanggalmerah) (lib php)
 
-- [Jadwal Fikom UDB](https://koreksoft.online/jadwal)
+- [Jadwal Fikom UDB](http://koreksoft.online/jadwal)
 
 (untuk menambahkan project kamu silahkan. buat  `pr`  atau  `open issue` )
 
