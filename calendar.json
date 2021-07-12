@@ -281,10 +281,10 @@
         "dimodifikasi": "20210409T002156Z",
         "status": "CONFIRMED"
     },
-    "20210810": {
+    "20210811": {
         "deskripsi": "Satu Muharam / Tahun Baru Hijriah",
-        "dibuat": "20210610T081801Z",
-        "dimodifikasi": "20210610T081801Z",
+        "dibuat": "20210703T072304Z",
+        "dimodifikasi": "20210703T072304Z",
         "status": "CONFIRMED"
     },
     "20210817": {
@@ -299,10 +299,10 @@
         "dimodifikasi": "20210610T081759Z",
         "status": "CONFIRMED"
     },
-    "20211019": {
+    "20211020": {
         "deskripsi": "Maulid Nabi Muhammad",
-        "dibuat": "20210409T002152Z",
-        "dimodifikasi": "20210409T002152Z",
+        "dibuat": "20210703T072304Z",
+        "dimodifikasi": "20210703T072304Z",
         "status": "CONFIRMED"
     },
     "20211104": {
@@ -330,9 +330,9 @@
         "status": "CONFIRMED"
     },
     "20211224": {
-        "deskripsi": "Cuti Bersama Natal (Malam Natal)",
-        "dibuat": "20210610T081759Z",
-        "dimodifikasi": "20210610T081759Z",
+        "deskripsi": "Malam Natal",
+        "dibuat": "20210703T072304Z",
+        "dimodifikasi": "20210703T072304Z",
         "status": "CONFIRMED"
     },
     "20211225": {
@@ -491,5 +491,5 @@
         "dimodifikasi": "20210409T002155Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2021-06-12 04:06"
+    "created-at": "2021-07-12 12:35"
 }
