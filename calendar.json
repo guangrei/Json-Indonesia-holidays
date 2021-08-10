@@ -281,6 +281,12 @@
         "dimodifikasi": "20210409T002156Z",
         "status": "CONFIRMED"
     },
+    "20210810": {
+        "deskripsi": "Satu Muharam / Tahun Baru Hijriah",
+        "dibuat": "20210810T070914Z",
+        "dimodifikasi": "20210810T070914Z",
+        "status": "CONFIRMED"
+    },
     "20210811": {
         "deskripsi": "Satu Muharam / Tahun Baru Hijriah",
         "dibuat": "20210703T072304Z",
@@ -491,5 +497,5 @@
         "dimodifikasi": "20210409T002155Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2021-07-12 12:35"
+    "created-at": "2021-08-11 04:00"
 }
