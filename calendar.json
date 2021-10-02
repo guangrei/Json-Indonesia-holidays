@@ -371,10 +371,16 @@
         "dimodifikasi": "20210826T115907Z",
         "status": "CONFIRMED"
     },
-    "20220301": {
+    "20220228": {
         "deskripsi": "Isra Mikraj Nabi Muhammad",
-        "dibuat": "20210826T115907Z",
-        "dimodifikasi": "20210826T115907Z",
+        "dibuat": "20211002T072614Z",
+        "dimodifikasi": "20211002T072614Z",
+        "status": "CONFIRMED"
+    },
+    "20220303": {
+        "deskripsi": "Hari Suci Nyepi (Tahun Baru Saka)",
+        "dibuat": "20211002T072614Z",
+        "dimodifikasi": "20211002T072614Z",
         "status": "CONFIRMED"
     },
     "20220415": {
@@ -401,16 +407,22 @@
         "dimodifikasi": "20210826T115917Z",
         "status": "CONFIRMED"
     },
+    "20220502": {
+        "deskripsi": "Hari Idul Fitri",
+        "dibuat": "20211002T072614Z",
+        "dimodifikasi": "20211002T072614Z",
+        "status": "CONFIRMED"
+    },
     "20220503": {
         "deskripsi": "Hari Idul Fitri",
         "dibuat": "20210826T115917Z",
         "dimodifikasi": "20210826T115917Z",
         "status": "CONFIRMED"
     },
-    "20220504": {
-        "deskripsi": "Hari Idul Fitri",
-        "dibuat": "20210826T115927Z",
-        "dimodifikasi": "20210826T115927Z",
+    "20220516": {
+        "deskripsi": "Hari Raya Waisak",
+        "dibuat": "20211002T072614Z",
+        "dimodifikasi": "20211002T072614Z",
         "status": "CONFIRMED"
     },
     "20220526": {
@@ -425,10 +437,10 @@
         "dimodifikasi": "20210826T115907Z",
         "status": "CONFIRMED"
     },
-    "20220710": {
+    "20220709": {
         "deskripsi": "Idul Adha (Lebaran Haji)",
-        "dibuat": "20210826T115917Z",
-        "dimodifikasi": "20210826T115917Z",
+        "dibuat": "20211002T072614Z",
+        "dimodifikasi": "20211002T072614Z",
         "status": "CONFIRMED"
     },
     "20220730": {
@@ -497,5 +509,5 @@
         "dimodifikasi": "20210826T115917Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2021-08-27 04:00"
+    "created-at": "2021-10-03 04:01"
 }
