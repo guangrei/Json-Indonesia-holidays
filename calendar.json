@@ -305,6 +305,12 @@
         "dimodifikasi": "20210826T115903Z",
         "status": "CONFIRMED"
     },
+    "20211019": {
+        "deskripsi": "Maulid Nabi Muhammad",
+        "dibuat": "20211016T083034Z",
+        "dimodifikasi": "20211016T083034Z",
+        "status": "CONFIRMED"
+    },
     "20211020": {
         "deskripsi": "Maulid Nabi Muhammad",
         "dibuat": "20210826T115907Z",
@@ -509,5 +515,5 @@
         "dimodifikasi": "20210826T115917Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2021-10-08 04:00"
+    "created-at": "2021-10-17 04:00"
 }
