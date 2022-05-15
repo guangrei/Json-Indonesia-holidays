@@ -233,6 +233,12 @@
         "dimodifikasi": "20210826T115903Z",
         "status": "CONFIRMED"
     },
+    "20220429": {
+        "deskripsi": "Cuti Bersama Idul Fitri",
+        "dibuat": "20220514T084037Z",
+        "dimodifikasi": "20220514T084037Z",
+        "status": "CONFIRMED"
+    },
     "20220501": {
         "deskripsi": "Hari Buruh Internasional / Pekerja",
         "dibuat": "20210826T115917Z",
@@ -249,6 +255,24 @@
         "deskripsi": "Hari Idul Fitri",
         "dibuat": "20210826T115917Z",
         "dimodifikasi": "20210826T115917Z",
+        "status": "CONFIRMED"
+    },
+    "20220504": {
+        "deskripsi": "Cuti Bersama Idul Fitri",
+        "dibuat": "20220514T084037Z",
+        "dimodifikasi": "20220514T084037Z",
+        "status": "CONFIRMED"
+    },
+    "20220505": {
+        "deskripsi": "Cuti Bersama Idul Fitri",
+        "dibuat": "20220514T084037Z",
+        "dimodifikasi": "20220514T084037Z",
+        "status": "CONFIRMED"
+    },
+    "20220506": {
+        "deskripsi": "Cuti Bersama Idul Fitri",
+        "dibuat": "20220514T084037Z",
+        "dimodifikasi": "20220514T084037Z",
         "status": "CONFIRMED"
     },
     "20220516": {
@@ -371,5 +395,5 @@
         "dimodifikasi": "20210826T115903Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2022-01-02 04:01"
+    "created-at": "2022-05-16 04:01"
 }
