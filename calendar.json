@@ -293,16 +293,16 @@
         "dimodifikasi": "20210826T115907Z",
         "status": "CONFIRMED"
     },
-    "20220709": {
+    "20220710": {
         "deskripsi": "Idul Adha (Lebaran Haji)",
-        "dibuat": "20211002T072614Z",
-        "dimodifikasi": "20211002T072614Z",
+        "dibuat": "20220714T142600Z",
+        "dimodifikasi": "20220714T142600Z",
         "status": "CONFIRMED"
     },
-    "20220730": {
+    "20220731": {
         "deskripsi": "Satu Muharam / Tahun Baru Hijriah",
-        "dibuat": "20210826T115903Z",
-        "dimodifikasi": "20210826T115903Z",
+        "dibuat": "20220714T142600Z",
+        "dimodifikasi": "20220714T142600Z",
         "status": "CONFIRMED"
     },
     "20220817": {
@@ -317,10 +317,10 @@
         "dimodifikasi": "20210826T115917Z",
         "status": "CONFIRMED"
     },
-    "20221008": {
+    "20221009": {
         "deskripsi": "Maulid Nabi Muhammad",
-        "dibuat": "20210826T115903Z",
-        "dimodifikasi": "20210826T115903Z",
+        "dibuat": "20220714T142600Z",
+        "dimodifikasi": "20220714T142600Z",
         "status": "CONFIRMED"
     },
     "20221024": {
@@ -395,5 +395,5 @@
         "dimodifikasi": "20210826T115903Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2022-05-16 04:01"
+    "created-at": "2022-07-16 04:00"
 }
