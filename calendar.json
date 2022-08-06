@@ -299,10 +299,10 @@
         "dimodifikasi": "20220714T142600Z",
         "status": "CONFIRMED"
     },
-    "20220731": {
+    "20220730": {
         "deskripsi": "Satu Muharam / Tahun Baru Hijriah",
-        "dibuat": "20220714T142600Z",
-        "dimodifikasi": "20220714T142600Z",
+        "dibuat": "20220806T113411Z",
+        "dimodifikasi": "20220806T113411Z",
         "status": "CONFIRMED"
     },
     "20220817": {
@@ -365,10 +365,94 @@
         "dimodifikasi": "20210826T115917Z",
         "status": "CONFIRMED"
     },
+    "20230101": {
+        "deskripsi": "Hari Tahun Baru",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
+    "20230123": {
+        "deskripsi": "Tahun Baru Imlek",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
+    "20230219": {
+        "deskripsi": "Isra Mikraj Nabi Muhammad",
+        "dibuat": "20220806T113411Z",
+        "dimodifikasi": "20220806T113411Z",
+        "status": "CONFIRMED"
+    },
+    "20230407": {
+        "deskripsi": "Wafat Isa Almasih",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
+    "20230409": {
+        "deskripsi": "Hari Paskah",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
     "20230421": {
         "deskripsi": "Hari Kartini",
         "dibuat": "20210826T115927Z",
         "dimodifikasi": "20210826T115927Z",
+        "status": "CONFIRMED"
+    },
+    "20230422": {
+        "deskripsi": "Hari Idul Fitri",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
+    "20230423": {
+        "deskripsi": "Hari Idul Fitri",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
+    "20230501": {
+        "deskripsi": "Hari Buruh Internasional / Pekerja",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
+    "20230518": {
+        "deskripsi": "Kenaikan Isa Al Masih",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
+    "20230601": {
+        "deskripsi": "Hari Lahir Pancasila",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
+    "20230629": {
+        "deskripsi": "Idul Adha (Lebaran Haji)",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
+    "20230720": {
+        "deskripsi": "Satu Muharam / Tahun Baru Hijriah",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
+    "20230817": {
+        "deskripsi": "Hari Proklamasi Kemerdekaan R.I.",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
+    "20230928": {
+        "deskripsi": "Maulid Nabi Muhammad",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
         "status": "CONFIRMED"
     },
     "20231002": {
@@ -395,5 +479,23 @@
         "dimodifikasi": "20210826T115903Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2022-07-16 04:00"
+    "20231224": {
+        "deskripsi": "Malam Natal",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
+    "20231225": {
+        "deskripsi": "Hari Raya Natal",
+        "dibuat": "20220806T113409Z",
+        "dimodifikasi": "20220806T113409Z",
+        "status": "CONFIRMED"
+    },
+    "20231231": {
+        "deskripsi": "Malam Tahun Baru",
+        "dibuat": "20220806T113411Z",
+        "dimodifikasi": "20220806T113411Z",
+        "status": "CONFIRMED"
+    },
+    "created-at": "2022-08-07 04:00"
 }
