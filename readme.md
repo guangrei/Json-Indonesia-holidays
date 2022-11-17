@@ -1,4 +1,4 @@
-![status workflow](https://github.com/guangrei/Json-Indonesia-holidays/actions/workflows/minify-json.yml/badge.svg)
+[![status workflow](https://github.com/guangrei/Json-Indonesia-holidays/actions/workflows/minify-json.yml/badge.svg)](https://github.com/guangrei/Json-Indonesia-holidays/actions)
 
 ***calendar.json*** berisi data hari libur indonesia yang bersumber dari google calendar dan akan otomatis diperbarui ketika ada perubahan atau pembaruan data.
 
