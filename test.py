@@ -16,7 +16,7 @@ class JsonTest(unittest.TestCase):
 	def test_calendar(self):
 		self.assertTrue(coba("calendar.json"))
 	
-	def test_calendar(self):
+	def test_calendarmin(self):
 		self.assertTrue(coba("calendar.min.json"))
 
 
