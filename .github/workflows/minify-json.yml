@@ -1,4 +1,4 @@
-name: Workflow for minify json
+name: minify and verify json
 
 on: [push]
 

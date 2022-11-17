@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-RUN apk add jq git
+RUN apk add --update --no-cache jq git python3
 
 COPY entrypoint /usr/local/bin/entrypoint
 RUN chmod +x /usr/local/bin/entrypoint
