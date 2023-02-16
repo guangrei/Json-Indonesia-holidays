@@ -132,9 +132,9 @@
         "status": "CONFIRMED"
     },
     "20221024": {
-        "deskripsi": "Diwali / Deepavali",
-        "dibuat": "20220923T171659Z",
-        "dimodifikasi": "20220923T171659Z",
+        "deskripsi": "Diwali",
+        "dibuat": "20230215T223354Z",
+        "dimodifikasi": "20230215T223354Z",
         "status": "CONFIRMED"
     },
     "20221112": {
@@ -186,9 +186,9 @@
         "status": "CONFIRMED"
     },
     "20230123": {
-        "deskripsi": "Lunar New Year Joint Holiday",
-        "dibuat": "20221012T190115Z",
-        "dimodifikasi": "20221012T190115Z",
+        "deskripsi": "Cuti Bersama Tahun Baru Imlek",
+        "dibuat": "20230215T223354Z",
+        "dimodifikasi": "20230215T223354Z",
         "status": "CONFIRMED"
     },
     "20230218": {
@@ -204,9 +204,9 @@
         "status": "CONFIRMED"
     },
     "20230323": {
-        "deskripsi": "Joint Holiday for Bali's Day of Silence and Hindu New Year (Nyepi)",
-        "dibuat": "20221012T190115Z",
-        "dimodifikasi": "20221012T190115Z",
+        "deskripsi": "Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)",
+        "dibuat": "20230215T223354Z",
+        "dimodifikasi": "20230215T223354Z",
         "status": "CONFIRMED"
     },
     "20230407": {
@@ -318,7 +318,7 @@
         "status": "CONFIRMED"
     },
     "20231112": {
-        "deskripsi": "Diwali / Deepavali",
+        "deskripsi": "Hari Ayah",
         "dibuat": "20220923T171659Z",
         "dimodifikasi": "20220923T171659Z",
         "status": "CONFIRMED"
@@ -456,9 +456,9 @@
         "status": "CONFIRMED"
     },
     "20241101": {
-        "deskripsi": "Diwali / Deepavali",
-        "dibuat": "20220923T171659Z",
-        "dimodifikasi": "20220923T171659Z",
+        "deskripsi": "Diwali",
+        "dibuat": "20230215T223354Z",
+        "dimodifikasi": "20230215T223354Z",
         "status": "CONFIRMED"
     },
     "20241112": {
@@ -497,5 +497,5 @@
         "dimodifikasi": "20220923T171659Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2023-01-02 04:01"
+    "created-at": "2023-02-17 04:01"
 }
