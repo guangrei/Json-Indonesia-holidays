@@ -1,4 +1,4 @@
-name: minify and verify json
+name: build
 
 on: [push]
 
@@ -13,6 +13,6 @@ jobs:
       - name: commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          message: "[Workflow] minify json"
+          message: "[Workflow] build"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -4,5 +4,7 @@ echo -e "=== MINIFY JSON ==="
 jq -c . < calendar.json > calendar.min.json
 echo -e "> Minified json: "
 cat calendar.min.json
+echo -e "=== Build api.json ==="
+python3 build.py
 echo -e "=== Test Generated Json ==="
 python3 test.py
