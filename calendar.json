@@ -377,6 +377,12 @@
         "dimodifikasi": "20220923T171659Z",
         "status": "CONFIRMED"
     },
+    "20240312": {
+        "deskripsi": "Ramadan Start",
+        "dibuat": "20230322T222551Z",
+        "dimodifikasi": "20230322T222551Z",
+        "status": "CONFIRMED"
+    },
     "20240329": {
         "deskripsi": "Wafat Isa Almasih",
         "dibuat": "20220923T171659Z",
@@ -497,5 +503,5 @@
         "dimodifikasi": "20220923T171659Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2023-02-17 04:01"
+    "created-at": "2023-03-24 04:01"
 }
