@@ -221,6 +221,18 @@
         "dimodifikasi": "20220923T171659Z",
         "status": "CONFIRMED"
     },
+    "20230419": {
+        "deskripsi": "Cuti Bersama Idul Fitri",
+        "dibuat": "20230420T082733Z",
+        "dimodifikasi": "20230420T082733Z",
+        "status": "CONFIRMED"
+    },
+    "20230420": {
+        "deskripsi": "Cuti Bersama Idul Fitri",
+        "dibuat": "20230420T082733Z",
+        "dimodifikasi": "20230420T082733Z",
+        "status": "CONFIRMED"
+    },
     "20230421": {
         "deskripsi": "Hari Kartini",
         "dibuat": "20220923T171659Z",
@@ -246,12 +258,6 @@
         "status": "CONFIRMED"
     },
     "20230425": {
-        "deskripsi": "Cuti Bersama Idul Fitri",
-        "dibuat": "20221012T190115Z",
-        "dimodifikasi": "20221012T190115Z",
-        "status": "CONFIRMED"
-    },
-    "20230426": {
         "deskripsi": "Cuti Bersama Idul Fitri",
         "dibuat": "20221012T190115Z",
         "dimodifikasi": "20221012T190115Z",
@@ -503,5 +509,5 @@
         "dimodifikasi": "20220923T171659Z",
         "status": "CONFIRMED"
     },
-    "created-at": "2023-03-24 04:01"
+    "created-at": "2023-04-21 04:01"
 }
