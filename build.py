@@ -46,7 +46,7 @@ def gen_cal(pref):
         tanggal = datetime.strptime(k, "%Y%m%d")
         if tanggal.year >= year:
             res[tanggal.strftime(format_tanggal)] = {}
-            res[tanggal.strftime(format_tanggal)]["nama"] = v["deskripsi"]
+            res[tanggal.strftime(format_tanggal)]["nama"] = "Deprecated! please use V2 https://github.com/guangrei/APIHariLibur_V2"
             res[tanggal.strftime(format_tanggal)]["libur"] = check_libur(
                 tanggal, v["deskripsi"], pref)
     res["info"] = credit
